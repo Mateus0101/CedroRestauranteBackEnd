@@ -1,0 +1,17 @@
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\RestauranteMaster\RestauranteMaster.SharedKernel\bin\Debug\RestauranteMaster.SharedKernel.dll
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\RestauranteMaster\RestauranteMaster.SharedKernel\bin\Debug\RestauranteMaster.SharedKernel.pdb
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\RestauranteMaster\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.csprojResolveAssemblyReference.cache
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\RestauranteMaster\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\RestauranteMaster\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.dll
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\RestauranteMaster\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.pdb
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CetroRestauranteBackEnd\RestauranteMaster.SharedKernel\bin\Debug\RestauranteMaster.SharedKernel.dll
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CetroRestauranteBackEnd\RestauranteMaster.SharedKernel\bin\Debug\RestauranteMaster.SharedKernel.pdb
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CetroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CetroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.dll
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CetroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.pdb
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CedroRestauranteBackEnd\RestauranteMaster.SharedKernel\bin\Debug\RestauranteMaster.SharedKernel.dll
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CedroRestauranteBackEnd\RestauranteMaster.SharedKernel\bin\Debug\RestauranteMaster.SharedKernel.pdb
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CedroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CedroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.dll
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CedroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.pdb
+C:\Users\Mateus Menezes\Desktop\Prova Cedro\CedroRestauranteBackEnd\RestauranteMaster.SharedKernel\obj\Debug\RestauranteMaster.SharedKernel.csprojResolveAssemblyReference.cache
