@@ -18,7 +18,7 @@ namespace RestauranteMaster.Api.Controllers
 
         [HttpPost]
         [Route("api/restaurante/create/")]
-        public Task<HttpResponseMessage> PostCad([FromBody]dynamic body) // Cadastrar os restaurantes
+        public Task<HttpResponseMessage> PostCad([FromBody]dynamic body) // Cadastro dos restaurantes
         {
             var response = new HttpResponseMessage();
             try
@@ -54,7 +54,7 @@ namespace RestauranteMaster.Api.Controllers
 
         [HttpGet]
         [Route("api/restaurante/getOne/{nome}")]
-        public Task<HttpResponseMessage> GetOne(string nome) // retorna restaurante por nome
+        public Task<HttpResponseMessage> GetOne(string nome) // pesquisa restaurante por nome
         {
             var response = new HttpResponseMessage();
             try
@@ -73,7 +73,7 @@ namespace RestauranteMaster.Api.Controllers
 
         [HttpGet]
         [Route("api/restaurante/getAll/")]
-        public Task<HttpResponseMessage> GetAll() // Retorna todos os restaurantes
+        public Task<HttpResponseMessage> GetAll() // Lista todos os restaurantes
         {
             var response = new HttpResponseMessage();
             try
@@ -93,10 +93,8 @@ namespace RestauranteMaster.Api.Controllers
 
         [HttpPut]
         [Route("api/restaurante/update/")]
-        public Task<HttpResponseMessage> Put([FromBody]dynamic body) // Atualiza restaurante
+        public Task<HttpResponseMessage> Put([FromBody]dynamic body) // Edita restaurante
         {
-            //var restauranteUpdate = _service.GetOne((string)body.nomeOld);
-
             var response = new HttpResponseMessage();
             try
             {
